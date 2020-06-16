@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
 
     println(room.toList())
 
-    println("1501023 안창완")
+   
 
 
 
